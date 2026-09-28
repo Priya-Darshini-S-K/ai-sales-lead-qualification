@@ -1,0 +1,101 @@
+Lead_ID,Name,Company,Job_Role,Industry,Company_Size,Budget,Need,Timeline,Engagement,Location
+L001,Arun Kumar,CloudNest Solutions,Founder,SaaS,85,500000,AI customer support chatbot,2 weeks,Requested demo,Chennai
+L002,Meena Raj,GreenLeaf Foods,Marketing Manager,FMCG,240,150000,Digital marketing automation,1 month,Asked for pricing,Coimbatore
+L003,Rahul Sharma,TechBridge Systems,CTO,IT Services,420,800000,AI lead qualification system,3 weeks,Booked meeting,Bengaluru
+L004,Divya Nair,UrbanCart,Operations Manager,E-commerce,120,250000,Order support automation,2 months,Downloaded brochure,Chennai
+L005,Karthik S,PrimeBuild Infra,Manager,Construction,300,100000,Website redesign,3 months,Viewed website,Madurai
+L006,Priya Menon,MedAssist Clinics,Founder,Healthcare,65,400000,Appointment booking chatbot,1 month,Requested callback,Coimbatore
+L007,Vijay Kumar,LearnPro Academy,Director,Education,180,300000,Student enquiry automation,2 weeks,Requested demo,Chennai
+L008,Sneha R,StyleHub,Marketing Lead,Retail,75,120000,Social media automation,2 months,Asked for details,Bengaluru
+L009,Manoj P,AutoServe Garage,Owner,Automotive,25,60000,Customer booking website,4 months,Viewed pricing,Salem
+L010,Anitha S,FinEdge Advisors,Partner,Finance,50,350000,Lead management CRM,3 weeks,Booked meeting,Chennai
+L011,Suresh B,FreshRoute Logistics,Operations Head,Logistics,210,450000,Delivery tracking dashboard,1 month,Requested proposal,Bengaluru
+L012,Harini V,BrightHomes,Sales Manager,Real Estate,90,275000,Lead follow-up automation,2 weeks,Requested demo,Chennai
+L013,Naveen R,CodeCraft Labs,CEO,Software,35,650000,AI coding assistant integration,1 month,Asked technical questions,Coimbatore
+L014,Aishwarya P,WellnessFirst,Founder,Wellness,45,90000,Instagram lead generation,3 months,Downloaded brochure,Madurai
+L015,Dinesh K,MetroPrint Works,General Manager,Manufacturing,160,180000,Inventory management system,2 months,Requested quote,Chennai
+L016,Lakshmi M,SkillGrow Institute,Principal,Education,130,220000,Student enquiry chatbot,1 month,Booked meeting,Bengaluru
+L017,Vignesh T,BuildMax Contractors,Director,Construction,500,750000,Project management software,3 weeks,Requested demo,Chennai
+L018,Keerthana S,GlowCare,Marketing Manager,Beauty,70,110000,Campaign automation,6 weeks,Asked for pricing,Coimbatore
+L019,Ajay P,QuickBite Kitchens,Founder,Food Services,40,200000,Online ordering platform,1 month,Requested callback,Chennai
+L020,Swetha R,NorthStar HR,HR Manager,Recruitment,55,160000,Candidate screening automation,2 months,Viewed case study,Bengaluru
+L021,Mohan V,SecureLine Systems,CTO,Cybersecurity,110,900000,AI security monitoring,2 weeks,Requested technical demo,Chennai
+L022,Riya Thomas,TravelEase,Product Manager,Travel,95,320000,Travel recommendation chatbot,1 month,Booked meeting,Coimbatore
+L023,Prakash N,AgroLink Traders,Owner,Agriculture,30,80000,Business website,5 months,Viewed website,Salem
+L024,Deepa K,CarePlus Pharmacy,Operations Manager,Pharmacy,145,240000,Customer order automation,2 months,Asked for proposal,Chennai
+L025,Hari S,EduSpark,Founder,EdTech,60,500000,AI tutor platform,3 weeks,Requested demo,Bengaluru
+L026,Nithya P,HomeStyle Interiors,Designer,Interior Design,20,70000,Portfolio website,4 months,Asked for details,Coimbatore
+L027,Gokul R,FleetPro Transport,Operations Director,Transport,260,420000,Fleet tracking dashboard,1 month,Requested quote,Chennai
+L028,Swathi M,MarketPulse Media,Account Director,Digital Marketing,85,280000,AI content workflow,2 weeks,Booked meeting,Bengaluru
+L029,Bala K,Royal Auto Components,Plant Manager,Manufacturing,650,600000,Production analytics dashboard,2 months,Requested proposal,Chennai
+L030,Ishita S,CareBridge,Founder,Healthcare,40,350000,Patient communication chatbot,3 weeks,Requested demo,Coimbatore
+L031,Ramesh V,CityMart Retail,Store Manager,Retail,200,130000,Customer loyalty website,4 months,Viewed pricing,Madurai
+L032,Pooja N,FinServe Digital,Business Head,FinTech,320,700000,AI document processing,1 month,Requested technical demo,Bengaluru
+L033,Sanjay M,GreenBuild Materials,Sales Director,Construction,175,210000,Sales CRM automation,2 months,Asked for pricing,Chennai
+L034,Kavya R,TutorPoint,Operations Lead,Education,80,190000,Lead enquiry automation,6 weeks,Requested callback,Coimbatore
+L035,Vishal P,CloudDesk IT,CEO,IT Services,70,550000,AI helpdesk assistant,2 weeks,Booked meeting,Bengaluru
+L036,Anu Joseph,NatureFresh Organics,Marketing Head,FMCG,110,140000,E-commerce website,3 months,Downloaded brochure,Chennai
+L037,Lokesh S,PrimeCare Diagnostics,Admin Manager,Healthcare,125,260000,Online appointment system,1 month,Requested quote,Madurai
+L038,Maya K,UrbanWear,Founder,Fashion,55,175000,E-commerce automation,2 months,Asked for demo,Coimbatore
+L039,Ganesh T,DataWave Analytics,CTO,Analytics,45,850000,LLM-powered analytics assistant,3 weeks,Requested technical demo,Chennai
+L040,Sowmya P,EasyMove Logistics,Sales Manager,Logistics,140,230000,Lead tracking system,1 month,Booked meeting,Bengaluru
+L041,Ravi Kumar,SmartFarm Solutions,Director,Agriculture Technology,95,480000,AI crop advisory chatbot,6 weeks,Requested proposal,Coimbatore
+L042,Janani S,UrbanStay Hotels,General Manager,Hospitality,180,300000,Guest support chatbot,2 months,Asked for pricing,Chennai
+L043,Ashok R,ProLegal Associates,Partner,Legal Services,25,125000,Client enquiry automation,3 months,Viewed case study,Madurai
+L044,Reshma V,FitLife Studio,Owner,Fitness,18,55000,Booking website,5 months,Viewed website,Coimbatore
+L045,Kiran P,NextGen Mobility,Product Head,Automotive,340,650000,Customer service AI assistant,1 month,Requested demo,Bengaluru
+L046,Monika R,BrightAds,Founder,Advertising,65,200000,AI campaign reporting,2 weeks,Requested callback,Chennai
+L047,Senthil K,BuildRight Homes,Sales Head,Real Estate,115,380000,Property lead qualification,3 weeks,Booked meeting,Coimbatore
+L048,Neha S,LearnSphere,Marketing Director,EdTech,220,450000,AI marketing automation,1 month,Requested proposal,Bengaluru
+L049,Vijay Anand,ShopEase Technologies,COO,E-commerce,410,720000,Customer service automation,2 weeks,Requested technical demo,Chennai
+L050,Divya S,LocalBiz Hub,Owner,Small Business Services,12,45000,Business website,6 months,Asked for basic information,Salem
+L051,Adithya R,NovaDesk,Operations Lead,SaaS,105,320000,Internal knowledge chatbot,1 month,Requested demo,Chennai
+L052,Bhavya K,HarvestBox,Founder,Food & Beverage,70,180000,Subscription ordering platform,2 months,Asked for pricing,Coimbatore
+L053,Charan V,MedCore Labs,IT Manager,Healthcare,230,460000,Patient data workflow automation,6 weeks,Requested proposal,Bengaluru
+L054,Dharani S,OakTree Realty,Sales Director,Real Estate,150,340000,Property enquiry automation,3 weeks,Booked meeting,Chennai
+L055,Ezhil P,LearnMate,Founder,EdTech,45,270000,AI learning assistant,1 month,Requested demo,Madurai
+L056,Farah N,QuickFleet,COO,Logistics,310,520000,Route optimization dashboard,2 weeks,Requested technical demo,Bengaluru
+L057,Gautham S,PixelCraft Studio,Creative Director,Design,28,95000,Portfolio and enquiry website,3 months,Viewed pricing,Chennai
+L058,Hema R,PureGlow,Brand Manager,Beauty,90,210000,Customer campaign automation,1 month,Asked for proposal,Coimbatore
+L059,Irfan M,RetailStack,CEO,Retail Technology,130,580000,AI retail analytics,3 weeks,Requested demo,Bengaluru
+L060,Jaya P,CarePoint,Clinic Manager,Healthcare,35,140000,Appointment reminder system,2 months,Requested callback,Chennai
+L061,Karthika V,BlueSky Travel,Founder,Travel,32,160000,WhatsApp booking assistant,6 weeks,Asked for details,Madurai
+L062,Logesh R,SteelWorks India,Plant Head,Manufacturing,720,900000,Predictive maintenance analytics,1 month,Requested technical demo,Coimbatore
+L063,Malar S,CampusBridge,Placement Head,Education,260,240000,Student placement CRM,2 months,Requested quote,Chennai
+L064,Nandha K,FreshCart,Operations Manager,E-commerce,190,310000,Returns automation,1 month,Booked meeting,Bengaluru
+L065,Oviya R,BrightSmile Dental,Founder,Healthcare,22,80000,Clinic website and booking,4 months,Viewed website,Coimbatore
+L066,Pranav T,MarketLoop,Growth Manager,Marketing,60,260000,Lead scoring automation,3 weeks,Requested demo,Chennai
+L067,Qadir A,SecureOps,Security Lead,Cybersecurity,85,620000,Security alert automation,2 weeks,Requested proposal,Bengaluru
+L068,Raghav P,HomeNest,Founder,Home Services,50,135000,Service booking website,2 months,Asked for pricing,Madurai
+L069,Sahana M,FinGrow,Operations Head,Finance,170,410000,Document verification workflow,1 month,Requested technical demo,Chennai
+L070,Tarun S,DriveSmart,Product Manager,Automotive,280,540000,Customer support automation,6 weeks,Booked meeting,Coimbatore
+L071,Uma V,GreenBasket,Marketing Head,FMCG,125,175000,Customer retention campaigns,2 months,Downloaded brochure,Bengaluru
+L072,Varun N,AppForge,Founder,Software,42,700000,AI feature integration,3 weeks,Requested demo,Chennai
+L073,Yamini R,CareWell,Admin Head,Healthcare,95,230000,Patient feedback automation,1 month,Asked for quote,Madurai
+L074,Zoya K,StyleStreet,E-commerce Manager,Fashion,210,290000,Personalized product recommendations,1 month,Requested demo,Bengaluru
+L075,Abhishek J,RouteLine,Fleet Manager,Logistics,430,680000,Fleet analytics platform,2 weeks,Requested technical demo,Chennai
+L076,Bharath S,SkillHub,Director,Education,340,360000,AI admissions assistant,1 month,Booked meeting,Coimbatore
+L077,Chitra N,BuildSpace,Project Manager,Construction,275,330000,Site progress dashboard,2 months,Requested proposal,Bengaluru
+L078,Devika P,PetCare Plus,Founder,Pet Services,30,75000,Appointment booking website,4 months,Asked for details,Chennai
+L079,Eshan R,CloudPilot,CTO,Cloud Services,190,760000,AI infrastructure monitoring,3 weeks,Requested technical demo,Bengaluru
+L080,Fathima S,WellnessWay,Marketing Manager,Wellness,55,115000,Lead generation campaigns,2 months,Viewed pricing,Coimbatore
+L081,Girish K,AutoFleet Parts,Sales Director,Automotive,240,390000,Dealer lead management,1 month,Requested quote,Chennai
+L082,Harin V,DataNest,CEO,Analytics,75,640000,AI reporting assistant,2 weeks,Requested demo,Bengaluru
+L083,Indhu M,LearnZone,Operations Manager,Education,100,210000,Student support chatbot,6 weeks,Requested callback,Madurai
+L084,Jeeva S,PrimeFoods,Sales Manager,FMCG,310,280000,Distributor CRM automation,2 months,Asked for proposal,Chennai
+L085,Kavitha R,UrbanMed,Founder,Healthcare,48,290000,Online consultation workflow,1 month,Booked meeting,Coimbatore
+L086,Manish P,ShopFlow,COO,E-commerce,360,610000,Customer service AI,3 weeks,Requested technical demo,Bengaluru
+L087,Nila K,TravelSphere,Product Lead,Travel,115,270000,Travel support automation,2 months,Asked for pricing,Chennai
+L088,Omkar V,AgriTech Connect,Founder,Agriculture Technology,80,430000,Farmer enquiry chatbot,1 month,Requested demo,Coimbatore
+L089,Pavithra S,BrightHomes Care,Customer Success Lead,Real Estate,130,190000,Resident support portal,3 months,Viewed case study,Bengaluru
+L090,Qasim R,LegalDesk,Managing Partner,Legal Services,40,155000,Client intake automation,2 months,Requested proposal,Chennai
+L091,Rohit M,FitCore,Owner,Fitness,65,125000,Membership management website,3 months,Asked for details,Madurai
+L092,Shalini P,AdWise,Account Manager,Advertising,120,340000,AI campaign insights,3 weeks,Booked meeting,Coimbatore
+L093,Tejas K,BuildVision,CEO,Construction,420,690000,AI project risk dashboard,1 month,Requested technical demo,Chennai
+L094,Usha N,CareConnect,Operations Director,Healthcare,280,510000,Patient communication automation,2 weeks,Requested demo,Bengaluru
+L095,Vasanth R,LocalMarket,Founder,Retail,38,90000,Online store setup,5 months,Viewed website,Salem
+L096,Zubin S,TechOrbit,VP Engineering,IT Services,520,950000,Enterprise AI knowledge assistant,1 month,Requested proposal,Chennai
+L097,Aarav N,CloudScale Works,Founder,SaaS,55,460000,AI sales assistant,3 weeks,Requested demo,Chennai
+L098,Bhavani R,WellCare Hospitals,Operations Director,Healthcare,360,580000,Patient support automation,1 month,Requested proposal,Bengaluru
+L099,Chetan P,MarketBridge,Sales Head,Digital Marketing,95,225000,Lead tracking and follow-up,6 weeks,Booked meeting,Coimbatore
+L100,Dhanya S,HomeKart,E-commerce Manager,E-commerce,275,370000,Product recommendation engine,2 months,Asked for pricing,Chennai
